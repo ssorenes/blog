@@ -1,1 +1,1 @@
-[link](/docs/story-meaningful-data.md)
+[link](story-meaningful-data.md)
